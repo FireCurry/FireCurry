@@ -19,8 +19,10 @@
 ### 💻 Projects
 
 ## 1. Conbee
-- 편의점 ERP & 그룹웨어 웹 어플리케이션 입니다.
-- 
+- 편의점 ERP & 그룹웨어 웹 애플리케이션 입니다.
+- [상세보기](https://github.com/Bee-Keepers/conbee)
 
-## 2. GoldenSpoon
-- 레시피 공유 웹 어플리케이션 입니다.
+## 2. CookGoldenSpoon
+- 레시피 공유 웹 애플리케이션 입니다.
+
+- [상세보기](https://github.com/3MIN1KUK/CookGoldenSpoon)
