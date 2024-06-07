@@ -21,8 +21,10 @@
 ## 1. Conbee
 - 편의점 ERP & 그룹웨어 웹 애플리케이션 입니다.
 - [상세보기](https://github.com/Bee-Keepers/conbee)
+- [담당기능]()
 
 ## 2. CookGoldenSpoon
 - 레시피 공유 웹 애플리케이션 입니다.
 
 - [상세보기](https://github.com/3MIN1KUK/CookGoldenSpoon)
+- [담당기능]()
