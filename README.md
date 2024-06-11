@@ -14,12 +14,18 @@
 ## 💻 프로젝트
 
 ### 🐝Conbee
-- 편의점 ERP & 그룹웨어 웹 애플리케이션 입니다.
-- [🔍상세보기](https://github.com/Bee-Keepers/conbee) [🛠️담당기능](https://github.com/FireCurry/Portfolio/blob/main/Conbee/conbee.md)
+- 편의점 ERP & 그룹웨어 웹 애플리케이션.
+
+![conbee](https://github.com/FireCurry/FireCurry/assets/141403823/05f6fc79-4f18-4083-ad13-acfd36253ac1)
+
+[🔍상세보기](https://github.com/Bee-Keepers/conbee) [🛠️담당기능](https://github.com/FireCurry/Portfolio/blob/main/Conbee/conbee.md)
 
 ### 🍴CookGoldenSpoon
-- 레시피 공유 웹 애플리케이션 입니다.
-- [🔍상세보기](https://github.com/3MIN1KUK/CookGoldenSpoon) [🛠️담당기능](https://github.com/FireCurry/Portfolio/blob/main/CookGoldenSpoon/cookGoldenSpoon.md)
+- 레시피 공유 웹 애플리케이션.
+
+![cookGoldenSpoon](https://github.com/FireCurry/FireCurry/assets/141403823/f381b978-c570-4bae-bf6c-7e10aa824f46)
+
+[🔍상세보기](https://github.com/3MIN1KUK/CookGoldenSpoon) [🛠️담당기능](https://github.com/FireCurry/Portfolio/blob/main/CookGoldenSpoon/cookGoldenSpoon.md)
 
 ## 📞 연락
 - firecurry@naver.com
