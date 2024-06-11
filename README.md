@@ -2,7 +2,7 @@
 ![banner1](https://github.com/FireCurry/FireCurry/assets/141403823/5449d476-aff1-49ad-97f9-b8f74a90154c)
 
 ## 😃 소개
-- 공학적 사고를 바탕으로 성장하는 개발자.
+- 안녕하세요! 공학적 사고를 바탕으로 성장하는 개발자가 되고싶은 저의 깃허브입니다.
 
 ## 🛠️ 기술 
 <img src="https://img.shields.io/badge/front-000000?style=for-the-badge"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/Ajax-A9225C?style=for-the-badge">
