@@ -1,5 +1,5 @@
 
-![banner](https://github.com/FireCurry/FireCurry/assets/141403823/2e8c5ed5-0dbd-4305-a494-19eaf71a27aa)
+![banner](https://github.com/FireCurry/FireCurry/assets/141403823/16dde722-b210-472c-b63d-38f179df0080)
 
 ## 😃 소개
 - 공학적 사고를 바탕으로 성장하는 개발자가 되고싶습니다.
