@@ -1,6 +1,4 @@
-# 안녕하세요 개발자 김민석입니다! 😆
-
-## 😃 한 줄 소개
+## 😃 소개
 - 공학적 사고를 바탕으로 성장하는 개발자가 되고싶습니다.
 
 ## 🛠️ 기술 
@@ -13,7 +11,7 @@
 <img src="https://img.shields.io/badge/environment-000000?style=for-the-badge"> ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-## 💻 Projects
+## 💻 프로젝트
 
 ### 🐝Conbee
 - 편의점 ERP & 그룹웨어 웹 애플리케이션 입니다.
@@ -23,5 +21,5 @@
 - 레시피 공유 웹 애플리케이션 입니다.
 - [🔍상세보기](https://github.com/3MIN1KUK/CookGoldenSpoon) [🛠️담당기능](https://github.com/FireCurry/Portfolio/blob/main/CookGoldenSpoon/cookGoldenSpoon.md)
 
-## 📞Contact
+## 📞 연락
 - firecurry@naver.com
